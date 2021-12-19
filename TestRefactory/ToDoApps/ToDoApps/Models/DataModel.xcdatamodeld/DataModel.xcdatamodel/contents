@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="19574" systemVersion="21A559" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="TaskTest" representedClassName=".TaskTest" syncable="YES" codeGenerationType="class">
+        <attribute name="completeTest" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="taskTest" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="TaskTest" positionX="-63" positionY="-18" width="128" height="59"/>
+    </elements>
+</model>
